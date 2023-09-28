@@ -1,0 +1,1 @@
+{"model_type": "KNeighborsClassifier", "n_neighbors": 5, "weights": "uniform", "metric": "minkowski"}
